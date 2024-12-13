@@ -1,0 +1,1 @@
+Instead of using `@apply` with the entire class, apply the base styles directly and then use the pseudo-selectors on their own. This ensures proper styling behavior.  In the example, we separate the `bg-blue-500` from the `hover:bg-blue-700`.
